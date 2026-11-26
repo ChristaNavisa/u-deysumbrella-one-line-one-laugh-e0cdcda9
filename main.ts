@@ -10,7 +10,8 @@ void repoRoot;
 
 // One funny line about anything at all: a driver who overruled the GPS
 // with a shortcut ends up in a cornfield. The joke is the reversal in
-// the last word — the shortcut did not save time, it delivered a field.
+// the last word — the shortcut did not save time, it delivered a field,
+// and the driver reports it with total calm.
 const entry =
   "Told the GPS I knew a shortcut. Now we're in a cornfield.";
 

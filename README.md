@@ -10,7 +10,7 @@ The program writes one funny line to `/output/entry.txt`: a driver who overruled
 
 > Told the GPS I knew a shortcut. Now we're in a cornfield.
 
-The joke is the reversal in the last word: the shortcut did not save time, it delivered a field.
+The joke is the reversal in the last word: the shortcut did not save time, it delivered a field — and the driver announces it like a travel update.
 
 Run with Node 22+:
 
